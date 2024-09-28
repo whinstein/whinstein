@@ -6,7 +6,6 @@ I am a college student in Japan tokyo digtial hollywood https://www.dhw.ac.jp/
 
 Polyglot: Tradition chinese(正體中文), japanese(日本語), English
 
-I’m currently working on Pacific Meta as intern  https://pacific-meta.co.jp/
 
 list of my hobbys:
    - animation watching : Mushoku Tensei: Jobless Reincarnation 無職転生 〜異世界行ったら本気だす〜,PSYCHO-PASS サイコパス
