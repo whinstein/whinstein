@@ -8,7 +8,6 @@ Polyglot: Tradition chinese(正體中文), japanese(日本語), English
 
 
 list of my hobbys:
-   - animation watching : Mushoku Tensei: Jobless Reincarnation 無職転生 〜異世界行ったら本気だす〜,PSYCHO-PASS サイコパス
    - programming learning
    - poker
    - volleyball
