@@ -2,14 +2,10 @@
 
 My name is Eric
 
-I am a college student in Japan tokyo digtial hollywood https://www.dhw.ac.jp/
-
 Polyglot: Tradition chinese(正體中文), japanese(日本語), English
-
 
 list of my hobbys:
    - programming learning
-   - poker
    - volleyball
    - education 
    - language learn : france and korean
@@ -18,7 +14,7 @@ list of my hobbys:
      - recerently doing for hobby:
        - learning how to make game (Unity)
        - learning how to make music 
-       - learning coding as hobby (python, c, sui move)
+       - learning coding as hobby (python, c)
   
 Want to learn more? contact me!
   https://www.instagram.com/howhow_422/
